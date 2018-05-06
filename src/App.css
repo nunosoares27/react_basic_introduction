@@ -1,0 +1,42 @@
+.main {
+  background: #F2784B;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p{
+  margin-left: 20px;
+  margin-right: 20px;
+ color: white;
+ font-size: 2em;
+}
+
+h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: right;
+    color: #FDE3A7;
+    font-size: 2.2em;
+    font-weight: 100;
+    margin-top: -20px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+button {
+    position: absolute;
+    margin-top: 151px;
+    height: 40px;
+    width: 266px;
+    border: 0;
+    color: white;
+    background: saddlebrown;
+}
